@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akashsingh41
-- 👀 I’m interested in ...code, organizing the code and writing the code
-- 🌱 I’m currently learning ...javascript, c#, and a bit of golang
-- 💞️ I’m looking to collaborate on ...full stack project
+- 👀 I’m interested in ..."show me the code"
+- 🌱 I’m experienced in ...javascript, c#, and python
+- 💞️ I’m looking to collaborate on ...full-stack project
 - 📫 How to reach me ...akashsingh41@hotmail.com
 
 <!---
